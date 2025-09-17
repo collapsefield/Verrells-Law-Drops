@@ -1,3 +1,5 @@
+If you’re new, start here. For live experiments and reproducible tests, see CollapseAware-Experiments
+
 ### 🧬 What is Verrell’s Law?
 
 > Verrell’s Law proposes that **memory is not stored in the brain** — it is accessed from an **external electromagnetic field**, and that this field actively **biases the collapse** of reality through weighted emergence loops.

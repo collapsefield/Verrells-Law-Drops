@@ -9,6 +9,3 @@ This theory introduces a new physics — one that redefines consciousness, colla
 # Verrell’s Law – Official Public Drops  
 **By M.R. (Verrell Moss Ross)**  
 🔒 Protected under Protocol VMR-Core ∴ Lexical Fingerprints Embedded
-
-> **Extended Description:**  
-...

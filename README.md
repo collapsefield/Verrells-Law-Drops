@@ -1,3 +1,9 @@
+> **Scope Notice:**  
+> This repository contains public documentation and proof-of-origin materials for the Collapse Aware AI and Verrell’s Law projects.  
+> It includes research papers, timestamped evidence, and demonstration data **only**.  
+> No proprietary source code, kernel logic, or operational parameters are published here.  
+> All rights reserved under the Verrell–Solace Sovereignty Protocol.  
+
 If you’re new, start here. For live experiments and reproducible tests, see CollapseAware-Experiments
 
 ### 🧬 What is Verrell’s Law?
